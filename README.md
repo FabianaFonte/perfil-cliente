@@ -1,11 +1,5 @@
 # Análise do Perfil do Cliente
 
-<p dir="auto"><strong>Projeto</strong></p>
-
-<p dir="auto">Identificação e Análise do Perfil do Cliente.</p>
-
-<p dir="auto"><strong>Introdução</strong></p>
-
 <p dir="auto">Conhecer o perfil do cliente é fundamental para traçar estratégias e atrair os consumidores certos para o seu negócio. Além disso, uma análise do perfil do cliente bem-feita ajuda uma empresa a entender melhor seus consumidores, tornando mais fácil modificar produtos e serviços de acordo com as necessidades, comportamentos e preocupações específicos dos diferentes tipos de clientes..</p>
 
 <p dir="auto">Uma empresa pode modificar seus produtos ou serviços com base no público-alvo de cada segmento de clientes. Por exemplo, em vez de gastar dinheiro para comercializar um novo produto para todos os clientes, uma empresa pode analisar qual segmento de clientes tem maior probabilidade de comprar o produto e, em seguida, comercializar o produto apenas naquele segmento específico, aumentando, desta forma, a assertividade das ações de marketing e vendas.</p>
