@@ -7,7 +7,7 @@
 <p dir="auto"><strong>Ojetivo do projeto</strong></p>
 <ul dir="auto">
 <li>
-<p dir="auto">Realizar uma análise do perfil do cliente utilizando o <em>Dataset Customer Personality Analysis</em> fornecido pelo <em>Kaggle</em>. Por meio desta análise pretendo explorar alguns conceitos que um cientista de dados precisa saber para o bom desenpenho de suas atividades.</p>
+<p dir="auto">Realizar uma análise do perfil do cliente utilizando o <em>Dataset Customer Personality Analysis</em> fornecido pelo <em>Kaggle</em>. Por meio desta análise pretendo explorar alguns conceitos que um cientista de dados precisa saber para o bom desempenho de suas atividades.</p>
 </li>
 <li>
 <p dir="auto">Desta forma, vou demonstrar a aplicação de algumas técnicas de pré-processamento, análise exploratória dos dados, classificação, agrupamento (clusterização) e finalizando com a avaliação dos conhecimentos descobertos na base de dados.</p>
