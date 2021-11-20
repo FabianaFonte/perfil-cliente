@@ -1,13 +1,13 @@
 # Análise do Perfil do Cliente
 
-<p dir="auto">Conhecer o perfil do cliente é fundamental para traçar estratégias e atrair os consumidores certos para o seu negócio. Além disso, uma análise do perfil do cliente bem-feita ajuda uma empresa a entender melhor seus consumidores, tornando mais fácil modificar produtos e serviços de acordo com as necessidades, comportamentos e preocupações específicos dos diferentes tipos de clientes..</p>
+<p dir="auto">Conhecer o perfil do cliente é fundamental para traçar estratégias e atrair os consumidores certos para o seu negócio. Além disso, uma análise bem-feita desse perfil ajuda as empresas a entender melhor seus consumidores, tornando mais fácil alterações no mix de produtos e serviços de acordo com as necessidades, comportamentos e preocupações específicas dos diferentes tipos de clientes.</p>
 
-<p dir="auto">Uma empresa pode modificar seus produtos ou serviços com base no público-alvo de cada segmento de clientes. Por exemplo, em vez de gastar dinheiro para comercializar um novo produto para todos os clientes, uma empresa pode analisar qual segmento de clientes tem maior probabilidade de comprar o produto e, em seguida, comercializar o produto apenas naquele segmento específico, aumentando, desta forma, a assertividade das ações de marketing e vendas.</p>
+<p dir="auto">Uma empresa pode adaptar seus produtos e/ou serviços ao seu público-alvo em cada segmento de mercado. Por exemplo, em vez de gastar dinheiro para comercializar um novo produto para todos os clientes, essa empresa pode analisar qual segmento tem maior probabilidade de comprar o produto e, em seguida, comercializar o produto apenas naquele segmento específico, aumentando, desta forma, a assertividade das ações de marketing e vendas.</p>
 
 <p dir="auto"><strong>Ojetivo do projeto</strong></p>
 <ul dir="auto">
 <li>
-<p dir="auto">Realizar uma análise do perfil do cliente utilizando o <em>Dataset Customer Personality Analysis</em> fornecido pelo <em>Kaggle</em>. Por meio desta análise pretendo explorar alguns conceitos que um cientista de dados precisa saber para o bom desempenho de suas atividades.</p>
+<p dir="auto">Realizar uma análise do perfil do cliente utilizando o <em>Dataset Customer Personality Analysis</em> fornecido pelo <em>Kaggle</em>. Por meio desta análise explorei alguns conceitos em ciência de dados necessários para o objetivo do projeto.</p>
 </li>
 <li>
 <p dir="auto">Desta forma, vou demonstrar a aplicação de algumas técnicas de pré-processamento, análise exploratória dos dados, classificação, agrupamento (clusterização) e finalizando com a avaliação dos conhecimentos descobertos na base de dados.</p>
