@@ -16,7 +16,7 @@
 
 <p dir="auto"><strong>Como foi realizada a análise</strong></p>
 
-<p dir="auto">A análise foi dividida em duas partes, a primeira teve o foco de entender a base de dados e traçar o perfil dos clientes com os dados existentes. Já a segunda fase (em construção) teve o objetido de realizar uma clusterização da base.</p>
+<p dir="auto">A análise foi dividida em duas partes, a primeira teve o foco de entender a base de dados e traçar o perfil dos clientes com os dados existentes. Já a segunda fase (em construção) teve o objetivo de realizar uma clusterização da base.</p>
 
 <hr>
 <p dir="auto"><strong>Um pouco sobre mim</strong></p>
